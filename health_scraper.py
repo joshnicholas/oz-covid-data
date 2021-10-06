@@ -52,7 +52,7 @@ if len(tables) >= 10:
         # print(table.columns)
         table['Date'] = today
         title = f"{today}_{names[i]}"
-        with open(f"covid-summary-stats/data/{title}.csv", "w") as f:
+        with open(f"data/{title}.csv", "w") as f:
             table.to_csv(f, index=False, header=True)
         i += 1
 
