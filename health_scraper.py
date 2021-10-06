@@ -4,10 +4,11 @@ import pandas as pd
 from selenium import webdriver 
 from selenium.webdriver.firefox.options import Options
 import datetime 
+import pytz
 
-today = datetime.datetime.today()
-today = datetime.datetime.strftime(today, "%Y-%m-%d")
-
+utc_now = pytz.utc.localize(datetime.datetime.utcnow())
+today = utc_now.astimezone(pytz.timezone("Australia/Brisbane"))
+today = today.strftime('%Y-%m-%d')
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
@@ -46,13 +47,12 @@ if len(tables) >= 10:
 
     i = 0
     for table in tables:
-        print(i)
-        i += 1
-        print(table)
-        print(table.columns)
+        # print(i)
+        # print(table)
+        # print(table.columns)
         table['Date'] = today
         title = f"{today}_{names[i]}"
         with open(f"covid-summary-stats/data/{title}.csv", "w") as f:
             table.to_csv(f, index=False, header=True)
-    
+        i += 1
 
