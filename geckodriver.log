@@ -378,3 +378,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiBdPbt/search.json.mozlz4", (void 0)))
 1633868748978	Marionette	INFO	Listening on port 39749
 1633868749099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633879011929	geckodriver	INFO	Listening on 127.0.0.1:47759
+1633879012870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilemNzzjd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1633879017849	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemNzzjd/search.json.mozlz4", (void 0)))
+1633879020905	Marionette	INFO	Listening on port 38565
+1633879021043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.health.gov.au/sites/default/files/js/js_D1Ufk9euiuP4agq251BynVrF6pPZuEBHigq4DVxsEsw.js, line 5: ReferenceError: require is not defined
