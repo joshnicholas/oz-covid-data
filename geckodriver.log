@@ -413,3 +413,13 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1633900458548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://covid19-data.health.gov.au/resources/assets/external/requirejs/require.js, line 7: ChunkLoadError: Loading chunk 84 failed.
 (error: https://covid19-data.health.gov.au/resources/responsive-state.5d2fc677242ef743c470.js)
+1633913947998	geckodriver	INFO	Listening on 127.0.0.1:46869
+1633913948944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSCFNjl"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1633913953246	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSCFNjl/search.json.mozlz4", (void 0)))
+1633913956134	Marionette	INFO	Listening on port 37469
+1633913956233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
