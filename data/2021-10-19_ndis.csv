@@ -1,11 +1,11 @@
 State,Participant Active,Worker Active,Participant Recovered,Worker Recovered,Participant Deaths,Worker Deaths,Date
 ACT,10,13,5,12,-,-,2021-10-19
-NSW,145,185,110,149,12,-,2021-10-19
+NSW,148,194,110,149,12,-,2021-10-19
 NT,-,-,-,-,-,-,2021-10-19
 QLD,-,-,-,-,-,-,2021-10-19
 SA,-,-,-,5,-,-,2021-10-19
 TAS,-,-,-,-,-,-,2021-10-19
-VIC,144,110,170,199,12,-,2021-10-19
+VIC,178,134,170,199,12,-,2021-10-19
 WA,-,-,-,-,-,-,2021-10-19
-Total,299,308,286,372,24,-,2021-10-19
+Total,336,341,286,372,24,-,2021-10-19
 "Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: Table does not show counts less than 5 * Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).",2021-10-19
