@@ -1,10 +1,10 @@
 Jurisdiction,Active cases^,Locally acquired last 24 hours*,Overseas acquired last 24 hours,'Under investigation last 24 hours*',Locally acquired last 7 days,Overseas acquired last 7 days,Under investigation last 7 days,Date
-Australia,25917,490,1,730,4052,13,7927,2021-11-01
-ACT,210,7,0,0,64,1,0,2021-11-01
-NSW,3678,177,1,0,1781,6,0,2021-11-01
-NT,2,0,0,0,0,0,0,2021-11-01
-QLD,13,0,0,0,2,5,0,2021-11-01
+Australia,25649,173,1,1439,3882,14,7927,2021-11-01
+ACT,170,5,0,0,60,1,0,2021-11-01
+NSW,3506,136,0,0,1628,6,0,2021-11-01
+NT,1,0,0,0,0,0,0,2021-11-01
+QLD,12,0,1,0,2,6,0,2021-11-01
 SA,1,0,0,0,0,0,0,2021-11-01
 TAS,0,0,0,0,0,0,0,2021-11-01
-VIC,22013,306,0,730,2205,1,7927,2021-11-01
+VIC,21959,32,0,1439,2192,1,7927,2021-11-01
 WA,0,0,0,0,0,0,0,2021-11-01
