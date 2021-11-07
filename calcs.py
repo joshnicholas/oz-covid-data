@@ -6,7 +6,8 @@ listo = []
 
 for file in os.listdir('data'):
     # print(file)
-    if "aged_care_home" in file:
+    # if "aged_care_home" in file:
+    if "total_cases" in file:
         inter = pd.read_csv(f'data/{file}', parse_dates=['Date'])
         print(inter)
         # print(file)
@@ -16,6 +17,8 @@ for file in os.listdir('data'):
 final = pd.concat(listo)
 final = final.sort_values(by='Date', ascending=True)
 
-final.drop_duplicates()
+# final.drop_duplicates()
 
 print(final)
+print(final.columns)
+print(final['Date'].max())
