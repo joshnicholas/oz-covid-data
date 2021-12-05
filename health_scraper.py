@@ -52,7 +52,25 @@ if len(tables) >= 10:
         # print(table.columns)
         table['Date'] = today
         title = f"{today}_{names[i]}"
+
+        ## Dump individual file
+
         with open(f"data/{title}.csv", "w") as f:
             table.to_csv(f, index=False, header=True)
+
+        ## Add data to the output files
+
+        old = pd.read_csv(f'output/{names[i]}.csv')
+        # print(names[i])
+        # print(old.shape)
+        combo = old.append(table)
+        # print(combo.shape)
+        combo = combo.drop_duplicates(keep='last')
+        # print("Dropped", combo.shape)
+
+        with open(f'output/{names[i]}.csv', 'w') as f:
+            combo.to_csv(f, index=False, header=True)
+
+
         i += 1
 

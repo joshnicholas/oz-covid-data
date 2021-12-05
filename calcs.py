@@ -19,6 +19,7 @@ final = final.sort_values(by='Date', ascending=True)
 
 # final.drop_duplicates()
 
-print(final)
-print(final.columns)
-print(final['Date'].max())
+print(final[['Jurisdiction',
+       'Total cases', 'Total deaths', 'Date']])
+# print(final.columns)
+# print(final['Date'].max())
