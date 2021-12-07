@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "5 */3 * * *"
+    - cron: "5 */2 * * *"
 
 jobs:
   build-and-deploy:
