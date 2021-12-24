@@ -1,4 +1,4 @@
-name: oz_scrape
+name: qld_lga_scrape
 
 on:
   push:
