@@ -22,8 +22,11 @@ jobs:
       - name: 💿 Install Requirements                             
         run: pip install -r reqs.txt
         
-      - name: 🍳 Update dataset
+      - name: 🍳 Scrape Federal Health
         run: python health_scraper.py
+
+      - name: 🍳 Run QLD lga scraper
+        run: qld_data/qld_lga_scraper.py
         
       - name: 🚀 Commit and push if it changed
         run: |
