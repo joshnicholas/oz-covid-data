@@ -14,13 +14,14 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")
 
 driver = webdriver.Firefox(options=chrome_options)
-driver.implicitly_wait(10)
+
 
 start_url = 'https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics'
 
 
 #%%
 driver.get(start_url)
+driver.implicitly_wait(15)
 
 #%%
 
@@ -34,7 +35,7 @@ while len(tables) < 10:
     tables = pd.read_html(driver.page_source.encode("utf-8"))
     i += 1
 
-    if i > 500:
+    if i > 600:
         print("Break")
         break
 
