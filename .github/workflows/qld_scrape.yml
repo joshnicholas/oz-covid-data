@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "5 */2 * * *"
+    - cron: "15 */2 * * *"
 
 jobs:
   build-and-deploy:
@@ -21,9 +21,9 @@ jobs:
   
       - name: 💿 Install Requirements                             
         run: pip install -r reqs.txt
-        
-      - name: 🍳 Scrape Federal Health
-        run: python health_scraper.py
+
+      - name: 🍳 Run QLD lga scraper
+        run: python qld_lga_scraper.py
         
       - name: 🚀 Commit and push if it changed
         run: |
