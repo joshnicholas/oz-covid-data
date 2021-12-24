@@ -26,7 +26,7 @@ jobs:
         run: python health_scraper.py
 
       - name: 🍳 Run QLD lga scraper
-        run: qld_data/qld_lga_scraper.py
+        run: python qld_lga_scraper.py
         
       - name: 🚀 Commit and push if it changed
         run: |

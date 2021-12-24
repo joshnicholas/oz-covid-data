@@ -19,7 +19,7 @@ page = r.text
 table = pd.read_html(page, attrs={'id':'LGA'})[0]
 table['Date'] = today
 
-with open(f'qld_data/data/{today}_qld_lga.csv', 'w') as f:
+with open(f'qld_lga_data/{today}_qld_lga.csv', 'w') as f:
     table.to_csv(f, index=False, header=True)
 
 
