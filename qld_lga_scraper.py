@@ -27,7 +27,7 @@ old = pd.read_csv('output/qld_lgas.csv')
 
 final = old.append(table)
 
-final = final.drop_duplicates(subset=['Local Government Area', 'Date'])
+final = final.drop_duplicates(subset=['Local Government Area', 'Date'], keep='last')
 
 with open('output/qld_lgas.csv', 'w') as f:
     final.to_csv(f, index=False, header=True)
