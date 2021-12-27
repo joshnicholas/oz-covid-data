@@ -23,5 +23,16 @@ with open(f'qld_lga_data/{today}_qld_lga.csv', 'w') as f:
     table.to_csv(f, index=False, header=True)
 
 
-print(table)
-print(table.columns)
+old = pd.read_csv('output/qld_lgas.csv')
+
+final = old.append(table)
+
+final = final.drop_duplicates(subset=['Local Government Area', 'Date'])
+
+with open('output/qld_lgas.csv', 'w') as f:
+    final.to_csv(f, index=False, header=True)
+
+p = final
+
+print(p)
+print(p.columns)

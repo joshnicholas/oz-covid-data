@@ -8303,3 +8303,19 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:42421/devtools/browser/67aef06e-1e8e-4fb6-a61b-63c866ed6cf8
 1640579414827	Marionette	INFO	Listening on port 44521
 1640579414902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640582144351	geckodriver	INFO	Listening on 127.0.0.1:64472
+1640582145358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zj/64pcvrn117b35wx61ttyc22dy4rksl/T/rust_mozprofile99OUuY"
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1640582145763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/zj/64pcvrn117b35wx61ttyc22dy4rksl/T/rust_mozprofile99OUuY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1640582147206	Marionette	INFO	Listening on port 64483
+1640582147238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1640582553589	Marionette	INFO	Stopped listening on port 64483
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
