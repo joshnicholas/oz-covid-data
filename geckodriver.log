@@ -8319,3 +8319,14 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1640586052830	geckodriver	INFO	Listening on 127.0.0.1:49273
+1640586053262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49969" "-no-remote" "-profile" "/tmp/rust_mozprofilecm7mid"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1640586060026	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecm7mid/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49969/devtools/browser/dc188a37-4a89-4a71-85b4-c2d6e0baa2b0
+1640586064080	Marionette	INFO	Listening on port 34003
+1640586064152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
