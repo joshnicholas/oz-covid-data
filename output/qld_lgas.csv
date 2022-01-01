@@ -370,53 +370,54 @@ Whitsunday Regional,7,4,6,0,109,126,2021-12-31
 Total,1590,1133,480,252,10408,13863,2021-12-31
 Balonne Shire,0,0,0,0,2,2,2022-01-01
 Banana Shire,0,2,0,0,1,3,2022-01-01
-Brisbane City,594,376,71,36,3483,4560,2022-01-01
-Bundaberg Regional,18,6,3,0,169,196,2022-01-01
+Brisbane City,594,377,72,36,4176,5255,2022-01-01
+Bundaberg Regional,18,7,3,0,183,211,2022-01-01
 Burdekin Shire,0,0,0,0,1,1,2022-01-01
-Cairns Regional,43,29,15,5,81,173,2022-01-01
-Cassowary Coast Regional,3,1,1,2,1,8,2022-01-01
+Cairns Regional,43,38,22,7,97,207,2022-01-01
+Cassowary Coast Regional,3,2,1,2,0,8,2022-01-01
 Central Highlands Regional,0,3,1,1,6,11,2022-01-01
 Charters Towers Regional,2,1,0,0,0,3,2022-01-01
-Cherbourg Aboriginal Shire,0,0,2,0,10,12,2022-01-01
+Cherbourg Aboriginal Shire,0,0,2,0,19,21,2022-01-01
+Cloncurry Shire,0,0,0,0,1,1,2022-01-01
 Cook Shire,0,0,0,1,0,1,2022-01-01
 Doomadgee Aboriginal Shire,0,1,0,0,1,2,2022-01-01
-Douglas Shire,2,2,0,0,23,27,2022-01-01
-Fraser Coast Regional,12,3,2,2,62,81,2022-01-01
-Gladstone Regional,7,9,2,1,25,44,2022-01-01
-Gold Coast City,192,228,207,45,1295,1967,2022-01-01
+Douglas Shire,2,2,8,0,25,37,2022-01-01
+Fraser Coast Regional,12,3,3,2,71,91,2022-01-01
+Gladstone Regional,7,12,3,1,23,46,2022-01-01
+Gold Coast City,193,247,246,46,1700,2432,2022-01-01
 Goondiwindi Regional,2,8,0,2,4,16,2022-01-01
-Gympie Regional,4,6,3,0,25,38,2022-01-01
-Hinchinbrook Shire,1,0,0,0,5,6,2022-01-01
-Interstate/Other,166,29,16,84,829,1124,2022-01-01
-Ipswich City,32,69,21,2,468,592,2022-01-01
-Isaac Regional,0,3,0,0,6,9,2022-01-01
-Livingstone Shire,2,11,3,1,9,26,2022-01-01
-Lockyer Valley Regional,2,8,1,0,35,46,2022-01-01
-Logan City,47,37,12,12,852,960,2022-01-01
+Gympie Regional,4,10,3,0,26,43,2022-01-01
+Hinchinbrook Shire,1,0,0,0,11,12,2022-01-01
+Interstate/Other,167,29,21,86,925,1228,2022-01-01
+Ipswich City,32,72,33,2,564,703,2022-01-01
+Isaac Regional,0,3,0,0,8,11,2022-01-01
+Livingstone Shire,2,12,3,1,9,27,2022-01-01
+Lockyer Valley Regional,2,8,1,0,40,51,2022-01-01
+Logan City,47,37,13,12,1112,1221,2022-01-01
 Longreach Regional,0,0,0,0,1,1,2022-01-01
-Mackay Regional,22,9,3,1,45,80,2022-01-01
-Maranoa Regional,0,1,0,1,3,5,2022-01-01
-Mareeba Shire,3,10,0,2,10,25,2022-01-01
+Mackay Regional,22,10,4,1,55,92,2022-01-01
+Maranoa Regional,0,1,0,1,5,7,2022-01-01
+Mareeba Shire,3,11,0,2,10,26,2022-01-01
 McKinlay Shire,0,0,0,0,1,1,2022-01-01
-Moreton Bay Regional,119,33,13,4,480,649,2022-01-01
+Moreton Bay Regional,119,33,13,4,632,801,2022-01-01
 Mount Isa City,0,0,0,0,4,4,2022-01-01
 Murweh Shire,0,0,0,1,1,2,2022-01-01
-Noosa Shire,19,26,13,2,193,253,2022-01-01
-North Burnett Regional,1,1,0,1,5,8,2022-01-01
-Not Supplied,67,40,32,6,1108,1253,2022-01-01
-Paroo Shire,0,1,0,0,2,3,2022-01-01
-Redland City,28,14,5,2,258,307,2022-01-01
-Rockhampton Regional,21,20,3,1,16,61,2022-01-01
-Scenic Rim Regional,4,4,1,0,25,34,2022-01-01
-Somerset Regional,3,2,1,1,8,15,2022-01-01
-South Burnett Regional,2,1,0,1,14,18,2022-01-01
-Southern Downs Regional,2,4,2,3,21,32,2022-01-01
-Sunshine Coast Regional,82,58,25,18,350,533,2022-01-01
-Tablelands Regional,5,1,0,0,6,12,2022-01-01
-Toowoomba Regional,41,59,10,9,249,368,2022-01-01
-Torres Shire,1,0,0,0,11,12,2022-01-01
-Townsville City,31,10,5,4,79,129,2022-01-01
+Noosa Shire,19,26,15,2,222,284,2022-01-01
+North Burnett Regional,1,1,0,1,6,9,2022-01-01
+Not Supplied,65,46,41,5,1201,1358,2022-01-01
+Paroo Shire,0,1,0,0,3,4,2022-01-01
+Redland City,28,14,5,2,318,367,2022-01-01
+Rockhampton Regional,21,22,2,1,20,66,2022-01-01
+Scenic Rim Regional,4,4,1,0,35,44,2022-01-01
+Somerset Regional,3,2,1,1,13,20,2022-01-01
+South Burnett Regional,2,1,0,1,17,21,2022-01-01
+Southern Downs Regional,2,4,2,3,27,38,2022-01-01
+Sunshine Coast Regional,82,63,28,18,408,599,2022-01-01
+Tablelands Regional,5,1,0,0,9,15,2022-01-01
+Toowoomba Regional,42,61,12,10,271,396,2022-01-01
+Torres Shire,1,0,0,0,12,13,2022-01-01
+Townsville City,31,11,5,4,93,144,2022-01-01
 Weipa Town,0,0,0,0,1,1,2022-01-01
-Western Downs Regional,3,3,1,1,15,23,2022-01-01
-Whitsunday Regional,7,4,6,0,109,126,2022-01-01
-Total,1590,1133,480,252,10408,13863,2022-01-01
+Western Downs Regional,3,3,1,1,22,30,2022-01-01
+Whitsunday Regional,7,4,8,0,119,138,2022-01-01
+Total,1591,1193,573,257,12511,16125,2022-01-01
