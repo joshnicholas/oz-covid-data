@@ -45,9 +45,12 @@ listo = []
 for file in os.listdir('qld_lga_data'):
 
     inter = pd.read_csv(f'qld_lga_data/{file}', parse_dates=['Date'])
-    inter = inter[['Local Government Area', 'Total', 'Date']]
+    if "Total" in inter.columns.tolist():
+        inter = inter[['Local Government Area', 'Total', 'Date']]
+    else:
+        inter = inter[['Local Government Area', 'Total cases', 'Date']]        
     inter.columns = ["LGA", 'Total cases', 'Date']
-    # print(inter)
+    print(inter)
     # # print(file)
     inter = inter.loc[inter['LGA'] !="Total"]
 
@@ -59,6 +62,8 @@ qld = pd.concat(listo)
 qld = qld.sort_values(by='Date', ascending=True)
 
 qld['Date'] = pd.to_datetime(qld['Date'])
+
+qld = qld.drop_duplicates(subset=['LGA', 'Date'], keep='last')
 
 print(qld)
 
