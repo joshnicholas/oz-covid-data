@@ -676,46 +676,46 @@ Brisbane City,15266,2022-01-06
 Isaac Regional,55,2022-01-06
 Logan City,3299,2022-01-06
 Longreach Regional,5,2022-01-06
-Mackay Regional,495,2022-01-06
 Ipswich City,2070,2022-01-06
 Maranoa Regional,18,2022-01-06
 Mareeba Shire,48,2022-01-06
 McKinlay Shire,1,2022-01-06
 Moreton Bay Regional,2094,2022-01-06
 Mornington Shire,2,2022-01-06
+Mount Isa City,12,2022-01-06
 Murweh Shire,7,2022-01-06
 Napranum Aboriginal Shire,1,2022-01-06
 Noosa Shire,603,2022-01-06
-Mount Isa City,12,2022-01-06
+Mackay Regional,495,2022-01-06
 Northern Peninsula Area Regional,6,2022-01-06
-Livingstone Shire,92,2022-01-06
-Lockhart River Aboriginal Shire,1,2022-01-06
-North Burnett Regional,17,2022-01-06
-Rockhampton Regional,243,2022-01-06
-Redland City,841,2022-01-06
-Lockyer Valley Regional,149,2022-01-06
-Quilpie Shire,1,2022-01-06
-Paroo Shire,5,2022-01-06
-Palm Island Aboriginal Shire,6,2022-01-06
 Not Supplied,4834,2022-01-06
-Douglas Shire,116,2022-01-07
-Central Highlands Regional,62,2022-01-07
-Doomadgee Aboriginal Shire,2,2022-01-07
-Cook Shire,55,2022-01-07
-Cloncurry Shire,1,2022-01-07
-Cherbourg Aboriginal Shire,89,2022-01-07
+Palm Island Aboriginal Shire,6,2022-01-06
+Paroo Shire,5,2022-01-06
+Quilpie Shire,1,2022-01-06
+Redland City,841,2022-01-06
+Rockhampton Regional,243,2022-01-06
+Lockyer Valley Regional,149,2022-01-06
+Livingstone Shire,92,2022-01-06
+North Burnett Regional,17,2022-01-06
+Lockhart River Aboriginal Shire,1,2022-01-06
 Charters Towers Regional,8,2022-01-07
+Cherbourg Aboriginal Shire,89,2022-01-07
+Douglas Shire,116,2022-01-07
+Cook Shire,55,2022-01-07
+Doomadgee Aboriginal Shire,2,2022-01-07
+Central Highlands Regional,62,2022-01-07
 Etheridge Shire,1,2022-01-07
+Cloncurry Shire,1,2022-01-07
 Cassowary Coast Regional,65,2022-01-07
-Wujal Wujal Aboriginal Shire,1,2022-01-07
+Brisbane City,18578,2022-01-07
 Cairns Regional,1591,2022-01-07
 Burdekin Shire,24,2022-01-07
 Bundaberg Regional,409,2022-01-07
-Brisbane City,18578,2022-01-07
 Blackall Tambo Regional,2,2022-01-07
 Barcaldine Regional,3,2022-01-07
 Banana Shire,28,2022-01-07
 Balonne Shire,7,2022-01-07
+Wujal Wujal Aboriginal Shire,1,2022-01-07
 Western Downs Regional,114,2022-01-07
 Carpentaria Shire,2,2022-01-07
 Flinders Shire,2,2022-01-07
@@ -801,7 +801,7 @@ Livingstone Shire,130,2022-01-08
 Lockyer Valley Regional,200,2022-01-08
 Winton Shire,1,2022-01-08
 Whitsunday Regional,599,2022-01-08
-Western Downs Regional,140,2022-01-08
+Weipa Town,27,2022-01-08
 Townsville City,762,2022-01-08
 Toowoomba Regional,1141,2022-01-08
 Tablelands Regional,98,2022-01-08
@@ -832,7 +832,7 @@ North Burnett Regional,23,2022-01-08
 Northern Peninsula Area Regional,7,2022-01-08
 Mornington Shire,2,2022-01-08
 Torres Shire,24,2022-01-08
-Weipa Town,27,2022-01-08
+Western Downs Regional,140,2022-01-08
 Balonne Shire,12,2022-01-09
 Quilpie Shire,2,2022-01-09
 Paroo Shire,7,2022-01-09
@@ -1496,8 +1496,8 @@ Murweh Shire,75,2022-01-17
 Mount Isa City,65,2022-01-17
 Western Downs Regional,457,2022-01-17
 Rockhampton Regional,947,2022-01-17
-Napranum Aboriginal Shire,5,2022-01-17
 Scenic Rim Regional,583,2022-01-17
+Napranum Aboriginal Shire,5,2022-01-17
 Somerset Regional,417,2022-01-17
 South Burnett Regional,349,2022-01-17
 Southern Downs Regional,588,2022-01-17
@@ -2076,7 +2076,7 @@ Murweh Shire,83,2022-01-24
 Napranum Aboriginal Shire,5,2022-01-24
 Mareeba Shire,932,2022-01-24
 Wujal Wujal Aboriginal Shire,4,2022-01-24
-Logan City,18746,2022-01-25
+Longreach Regional,25,2022-01-25
 Ipswich City,12588,2022-01-25
 Doomadgee Aboriginal Shire,3,2022-01-25
 Douglas Shire,944,2022-01-25
@@ -2091,8 +2091,8 @@ Hinchinbrook Shire,156,2022-01-25
 Hope Vale Aboriginal Shire,3,2022-01-25
 Interstate/Other,10830,2022-01-25
 Isaac Regional,409,2022-01-25
+Kowanyama Aboriginal Shire,6,2022-01-25
 Yarrabah Aboriginal Shire,126,2022-01-25
-Wujal Wujal Aboriginal Shire,4,2022-01-25
 Diamantina Shire,2,2022-01-25
 Croydon Shire,1,2022-01-25
 Cook Shire,164,2022-01-25
@@ -2104,7 +2104,7 @@ Barcoo Shire,2,2022-01-25
 Blackall Tambo Regional,16,2022-01-25
 Brisbane City,65695,2022-01-25
 Bulloo Shire,3,2022-01-25
-Woorabinda Aboriginal Shire,7,2022-01-25
+Wujal Wujal Aboriginal Shire,4,2022-01-25
 Bundaberg Regional,1560,2022-01-25
 Burke Shire,4,2022-01-25
 Cairns Regional,11906,2022-01-25
@@ -2115,8 +2115,9 @@ Charters Towers Regional,43,2022-01-25
 Cherbourg Aboriginal Shire,110,2022-01-25
 Burdekin Shire,365,2022-01-25
 Aurukun Shire,5,2022-01-25
-Winton Shire,8,2022-01-25
-Western Downs Regional,655,2022-01-25
+Woorabinda Aboriginal Shire,7,2022-01-25
+Whitsunday Regional,1637,2022-01-25
+Northern Peninsula Area Regional,18,2022-01-25
 North Burnett Regional,150,2022-01-25
 Noosa Shire,2646,2022-01-25
 Napranum Aboriginal Shire,5,2022-01-25
@@ -2129,81 +2130,80 @@ Mareeba Shire,942,2022-01-25
 Maranoa Regional,267,2022-01-25
 Mapoon Aboriginal Shire,2,2022-01-25
 Mackay Regional,3575,2022-01-25
-Longreach Regional,25,2022-01-25
+Logan City,18746,2022-01-25
 Lockyer Valley Regional,1110,2022-01-25
-Lockhart River Aboriginal Shire,32,2022-01-25
-Northern Peninsula Area Regional,18,2022-01-25
 Not Supplied,27284,2022-01-25
 Palm Island Aboriginal Shire,149,2022-01-25
 Paroo Shire,22,2022-01-25
+Pormpuraaw Aboriginal Shire,1,2022-01-25
+Western Downs Regional,655,2022-01-25
 Weipa Town,56,2022-01-25
 Townsville City,5402,2022-01-25
 Torres Strait Island Regional,19,2022-01-25
 Torres Shire,54,2022-01-25
 Toowoomba Regional,3608,2022-01-25
 Tablelands Regional,690,2022-01-25
+Winton Shire,8,2022-01-25
 Sunshine Coast Regional,14379,2022-01-25
-Whitsunday Regional,1637,2022-01-25
-Southern Downs Regional,801,2022-01-25
+South Burnett Regional,511,2022-01-25
 Somerset Regional,665,2022-01-25
 Scenic Rim Regional,933,2022-01-25
 Rockhampton Regional,1604,2022-01-25
 Richmond Shire,2,2022-01-25
 Redland City,5995,2022-01-25
 Quilpie Shire,9,2022-01-25
-Pormpuraaw Aboriginal Shire,1,2022-01-25
-South Burnett Regional,511,2022-01-25
+Southern Downs Regional,801,2022-01-25
+Lockhart River Aboriginal Shire,32,2022-01-25
 Livingstone Shire,792,2022-01-25
-Kowanyama Aboriginal Shire,6,2022-01-25
-Ipswich City,13021,2022-01-26
-Cloncurry Shire,52,2022-01-26
+Isaac Regional,416,2022-01-26
 Cook Shire,230,2022-01-26
 Croydon Shire,1,2022-01-26
 Diamantina Shire,2,2022-01-26
 Doomadgee Aboriginal Shire,3,2022-01-26
 Douglas Shire,957,2022-01-26
 Etheridge Shire,4,2022-01-26
-Cherbourg Aboriginal Shire,127,2022-01-26
 Flinders Shire,10,2022-01-26
-Gladstone Regional,973,2022-01-26
+Cloncurry Shire,52,2022-01-26
+Fraser Coast Regional,1985,2022-01-26
 Gold Coast City,42671,2022-01-26
 Goondiwindi Regional,244,2022-01-26
 Gympie Regional,988,2022-01-26
 Hinchinbrook Shire,158,2022-01-26
 Hope Vale Aboriginal Shire,8,2022-01-26
 Interstate/Other,10990,2022-01-26
-Fraser Coast Regional,1985,2022-01-26
-Isaac Regional,416,2022-01-26
-Charters Towers Regional,46,2022-01-26
-Cassowary Coast Regional,1072,2022-01-26
+Ipswich City,13021,2022-01-26
+Gladstone Regional,973,2022-01-26
+Kowanyama Aboriginal Shire,20,2022-01-26
+Cherbourg Aboriginal Shire,127,2022-01-26
+Central Highlands Regional,539,2022-01-26
 Aurukun Shire,33,2022-01-26
 Balonne Shire,71,2022-01-26
-Rockhampton Regional,1706,2022-01-26
 Richmond Shire,3,2022-01-26
 Redland City,6218,2022-01-26
 Banana Shire,189,2022-01-26
 Barcaldine Regional,16,2022-01-26
-Central Highlands Regional,539,2022-01-26
 Barcoo Shire,2,2022-01-26
-Brisbane City,67268,2022-01-26
+Charters Towers Regional,46,2022-01-26
+Blackall Tambo Regional,17,2022-01-26
 Bulloo Shire,3,2022-01-26
 Bundaberg Regional,1624,2022-01-26
 Burdekin Shire,377,2022-01-26
 Burke Shire,4,2022-01-26
 Cairns Regional,12314,2022-01-26
 Carpentaria Shire,17,2022-01-26
-Blackall Tambo Regional,17,2022-01-26
-Kowanyama Aboriginal Shire,20,2022-01-26
+Cassowary Coast Regional,1072,2022-01-26
+Brisbane City,67268,2022-01-26
 Livingstone Shire,833,2022-01-26
-Paroo Shire,23,2022-01-26
+Lockhart River Aboriginal Shire,58,2022-01-26
 Pormpuraaw Aboriginal Shire,1,2022-01-26
 Quilpie Shire,9,2022-01-26
+Rockhampton Regional,1706,2022-01-26
 Scenic Rim Regional,981,2022-01-26
 Somerset Regional,701,2022-01-26
 South Burnett Regional,531,2022-01-26
 Southern Downs Regional,830,2022-01-26
 Sunshine Coast Regional,15028,2022-01-26
-Lockhart River Aboriginal Shire,58,2022-01-26
+Lockyer Valley Regional,1166,2022-01-26
 Tablelands Regional,727,2022-01-26
 Torres Shire,197,2022-01-26
 Torres Strait Island Regional,108,2022-01-26
@@ -2214,117 +2214,117 @@ Whitsunday Regional,1654,2022-01-26
 Winton Shire,8,2022-01-26
 Toowoomba Regional,3665,2022-01-26
 Woorabinda Aboriginal Shire,7,2022-01-26
-Palm Island Aboriginal Shire,169,2022-01-26
-Northern Peninsula Area Regional,151,2022-01-26
-Lockyer Valley Regional,1166,2022-01-26
+Paroo Shire,23,2022-01-26
+Not Supplied,114711,2022-01-26
 Logan City,19516,2022-01-26
-Yarrabah Aboriginal Shire,338,2022-01-26
 Longreach Regional,26,2022-01-26
+Yarrabah Aboriginal Shire,338,2022-01-26
 Mackay Regional,3652,2022-01-26
 Mapoon Aboriginal Shire,4,2022-01-26
 Maranoa Regional,276,2022-01-26
-Not Supplied,114711,2022-01-26
 Mareeba Shire,975,2022-01-26
-Moreton Bay Regional,18146,2022-01-26
+Palm Island Aboriginal Shire,169,2022-01-26
+McKinlay Shire,3,2022-01-26
 Mornington Shire,4,2022-01-26
 Mount Isa City,132,2022-01-26
 Murweh Shire,83,2022-01-26
 Napranum Aboriginal Shire,17,2022-01-26
 Noosa Shire,2735,2022-01-26
 North Burnett Regional,150,2022-01-26
-McKinlay Shire,3,2022-01-26
+Northern Peninsula Area Regional,151,2022-01-26
+Moreton Bay Regional,18146,2022-01-26
 Wujal Wujal Aboriginal Shire,6,2022-01-26
-Barcaldine Regional,16,2022-01-27
-Barcoo Shire,2,2022-01-27
 Banana Shire,201,2022-01-27
+Barcaldine Regional,16,2022-01-27
+Balonne Shire,75,2022-01-27
+Woorabinda Aboriginal Shire,7,2022-01-27
+Wujal Wujal Aboriginal Shire,6,2022-01-27
 Yarrabah Aboriginal Shire,340,2022-01-27
+Barcoo Shire,2,2022-01-27
 Aurukun Shire,33,2022-01-27
 Blackall Tambo Regional,17,2022-01-27
-Balonne Shire,75,2022-01-27
-Brisbane City,68619,2022-01-27
-Cairns Regional,12623,2022-01-27
-Bundaberg Regional,1701,2022-01-27
-Quilpie Shire,9,2022-01-27
-Pormpuraaw Aboriginal Shire,1,2022-01-27
-Paroo Shire,25,2022-01-27
-Palm Island Aboriginal Shire,210,2022-01-27
-Not Supplied,119673,2022-01-27
-Northern Peninsula Area Regional,177,2022-01-27
-Redland City,6457,2022-01-27
-North Burnett Regional,155,2022-01-27
-Napranum Aboriginal Shire,19,2022-01-27
-Murweh Shire,83,2022-01-27
-Mount Isa City,139,2022-01-27
+Burke Shire,4,2022-01-27
 Bulloo Shire,3,2022-01-27
-Moreton Bay Regional,18689,2022-01-27
-McKinlay Shire,3,2022-01-27
-Noosa Shire,2821,2022-01-27
 Mareeba Shire,1018,2022-01-27
+McKinlay Shire,3,2022-01-27
+Brisbane City,68619,2022-01-27
+Mornington Shire,4,2022-01-27
+Mount Isa City,139,2022-01-27
+Murweh Shire,83,2022-01-27
+Napranum Aboriginal Shire,19,2022-01-27
+Noosa Shire,2821,2022-01-27
+North Burnett Regional,155,2022-01-27
+Northern Peninsula Area Regional,177,2022-01-27
+Not Supplied,119673,2022-01-27
+Palm Island Aboriginal Shire,210,2022-01-27
+Paroo Shire,25,2022-01-27
+Pormpuraaw Aboriginal Shire,1,2022-01-27
+Quilpie Shire,9,2022-01-27
+Redland City,6457,2022-01-27
 Richmond Shire,3,2022-01-27
-Scenic Rim Regional,1014,2022-01-27
-Woorabinda Aboriginal Shire,7,2022-01-27
-Winton Shire,8,2022-01-27
 Whitsunday Regional,1675,2022-01-27
 Western Downs Regional,695,2022-01-27
 Weipa Town,126,2022-01-27
 Townsville City,5686,2022-01-27
-Rockhampton Regional,1775,2022-01-27
 Torres Strait Island Regional,136,2022-01-27
+Torres Shire,218,2022-01-27
+Maranoa Regional,285,2022-01-27
 Toowoomba Regional,3773,2022-01-27
-Tablelands Regional,740,2022-01-27
 Sunshine Coast Regional,15498,2022-01-27
 Southern Downs Regional,855,2022-01-27
 South Burnett Regional,556,2022-01-27
 Somerset Regional,734,2022-01-27
-Torres Shire,218,2022-01-27
-Maranoa Regional,285,2022-01-27
-Mornington Shire,4,2022-01-27
-Mackay Regional,3928,2022-01-27
-Burdekin Shire,399,2022-01-27
-Burke Shire,4,2022-01-27
-Carpentaria Shire,18,2022-01-27
-Cassowary Coast Regional,1136,2022-01-27
-Central Highlands Regional,568,2022-01-27
-Charters Towers Regional,46,2022-01-27
-Cherbourg Aboriginal Shire,127,2022-01-27
-Cloncurry Shire,55,2022-01-27
-Cook Shire,233,2022-01-27
-Croydon Shire,1,2022-01-27
+Scenic Rim Regional,1014,2022-01-27
+Rockhampton Regional,1775,2022-01-27
+Tablelands Regional,740,2022-01-27
 Mapoon Aboriginal Shire,6,2022-01-27
-Doomadgee Aboriginal Shire,3,2022-01-27
-Douglas Shire,968,2022-01-27
-Etheridge Shire,4,2022-01-27
-Flinders Shire,16,2022-01-27
-Diamantina Shire,2,2022-01-27
-Gladstone Regional,1000,2022-01-27
+Moreton Bay Regional,18689,2022-01-27
 Longreach Regional,26,2022-01-27
-Logan City,20104,2022-01-27
+Doomadgee Aboriginal Shire,3,2022-01-27
+Diamantina Shire,2,2022-01-27
+Mackay Regional,3928,2022-01-27
+Cook Shire,233,2022-01-27
+Cloncurry Shire,55,2022-01-27
+Cherbourg Aboriginal Shire,127,2022-01-27
+Douglas Shire,968,2022-01-27
+Charters Towers Regional,46,2022-01-27
+Cassowary Coast Regional,1136,2022-01-27
+Carpentaria Shire,18,2022-01-27
+Cairns Regional,12623,2022-01-27
+Winton Shire,8,2022-01-27
+Burdekin Shire,399,2022-01-27
+Bundaberg Regional,1701,2022-01-27
+Central Highlands Regional,568,2022-01-27
+Etheridge Shire,4,2022-01-27
+Croydon Shire,1,2022-01-27
 Fraser Coast Regional,2054,2022-01-27
+Logan City,20104,2022-01-27
 Lockyer Valley Regional,1208,2022-01-27
-Lockhart River Aboriginal Shire,60,2022-01-27
+Flinders Shire,16,2022-01-27
 Livingstone Shire,906,2022-01-27
 Kowanyama Aboriginal Shire,23,2022-01-27
-Wujal Wujal Aboriginal Shire,6,2022-01-27
-Ipswich City,13405,2022-01-27
 Isaac Regional,443,2022-01-27
-Goondiwindi Regional,251,2022-01-27
-Gympie Regional,1016,2022-01-27
-Gold Coast City,43722,2022-01-27
+Ipswich City,13405,2022-01-27
+Lockhart River Aboriginal Shire,60,2022-01-27
 Hope Vale Aboriginal Shire,8,2022-01-27
-Interstate/Other,11092,2022-01-27
 Hinchinbrook Shire,162,2022-01-27
-Aurukun Shire,38,2022-01-28
-Balonne Shire,76,2022-01-28
+Gympie Regional,1016,2022-01-27
+Goondiwindi Regional,251,2022-01-27
+Gold Coast City,43722,2022-01-27
+Gladstone Regional,1000,2022-01-27
+Interstate/Other,11092,2022-01-27
+Bundaberg Regional,1759,2022-01-28
+Bulloo Shire,3,2022-01-28
+Brisbane City,69789,2022-01-28
+Blackall Tambo Regional,17,2022-01-28
 Banana Shire,208,2022-01-28
 Barcaldine Regional,16,2022-01-28
+Balonne Shire,76,2022-01-28
+Aurukun Shire,38,2022-01-28
 Barcoo Shire,2,2022-01-28
-Blackall Tambo Regional,17,2022-01-28
-Brisbane City,69789,2022-01-28
-Bulloo Shire,3,2022-01-28
-Bundaberg Regional,1759,2022-01-28
 Burdekin Shire,434,2022-01-28
 Diamantina Shire,2,2022-01-28
-Carpentaria Shire,20,2022-01-28
+Cairns Regional,12900,2022-01-28
 Rockhampton Regional,1792,2022-01-28
 Richmond Shire,3,2022-01-28
 Redland City,6582,2022-01-28
@@ -2359,7 +2359,7 @@ Tablelands Regional,789,2022-01-28
 Sunshine Coast Regional,15815,2022-01-28
 Weipa Town,127,2022-01-28
 Moreton Bay Regional,19375,2022-01-28
-Cairns Regional,12900,2022-01-28
+Carpentaria Shire,20,2022-01-28
 Mareeba Shire,1055,2022-01-28
 Gold Coast City,44446,2022-01-28
 Gladstone Regional,1006,2022-01-28
@@ -2379,43 +2379,43 @@ Cook Shire,235,2022-01-28
 Gympie Regional,1033,2022-01-28
 Croydon Shire,1,2022-01-28
 Hope Vale Aboriginal Shire,8,2022-01-28
-Interstate/Other,11213,2022-01-28
-Ipswich City,13652,2022-01-28
-Isaac Regional,449,2022-01-28
-Kowanyama Aboriginal Shire,28,2022-01-28
-Livingstone Shire,916,2022-01-28
-Lockhart River Aboriginal Shire,62,2022-01-28
-Lockyer Valley Regional,1249,2022-01-28
-Mapoon Aboriginal Shire,6,2022-01-28
-Logan City,20488,2022-01-28
-Longreach Regional,27,2022-01-28
 Mackay Regional,4072,2022-01-28
+Mapoon Aboriginal Shire,6,2022-01-28
+Longreach Regional,27,2022-01-28
+Logan City,20488,2022-01-28
 Hinchinbrook Shire,177,2022-01-28
+Lockyer Valley Regional,1249,2022-01-28
 Maranoa Regional,287,2022-01-28
-Interstate/Other,11308,2022-01-29
+Livingstone Shire,916,2022-01-28
+Kowanyama Aboriginal Shire,28,2022-01-28
+Isaac Regional,449,2022-01-28
+Ipswich City,13652,2022-01-28
+Interstate/Other,11213,2022-01-28
+Lockhart River Aboriginal Shire,62,2022-01-28
 Hope Vale Aboriginal Shire,8,2022-01-29
-Gold Coast City,45309,2022-01-29
-Gympie Regional,1076,2022-01-29
-Goondiwindi Regional,266,2022-01-29
-Ipswich City,13999,2022-01-29
-Gladstone Regional,1040,2022-01-29
 Hinchinbrook Shire,184,2022-01-29
-Isaac Regional,466,2022-01-29
-Longreach Regional,27,2022-01-29
+Interstate/Other,11308,2022-01-29
+Gladstone Regional,1040,2022-01-29
+Goondiwindi Regional,266,2022-01-29
+Gold Coast City,45309,2022-01-29
+Fraser Coast Regional,2157,2022-01-29
+Gympie Regional,1076,2022-01-29
+Ipswich City,13999,2022-01-29
+Logan City,20999,2022-01-29
+Kowanyama Aboriginal Shire,34,2022-01-29
 Livingstone Shire,954,2022-01-29
 Lockhart River Aboriginal Shire,65,2022-01-29
 Lockyer Valley Regional,1302,2022-01-29
-Logan City,20999,2022-01-29
+Longreach Regional,27,2022-01-29
 Mackay Regional,4168,2022-01-29
 Mapoon Aboriginal Shire,6,2022-01-29
-Maranoa Regional,294,2022-01-29
-McKinlay Shire,4,2022-01-29
 Mareeba Shire,1149,2022-01-29
-Fraser Coast Regional,2157,2022-01-29
-Kowanyama Aboriginal Shire,34,2022-01-29
+Maranoa Regional,294,2022-01-29
 Flinders Shire,18,2022-01-29
+Isaac Regional,466,2022-01-29
+Etheridge Shire,4,2022-01-29
 Burdekin Shire,437,2022-01-29
-Douglas Shire,985,2022-01-29
+Doomadgee Aboriginal Shire,28,2022-01-29
 Aurukun Shire,42,2022-01-29
 Balonne Shire,79,2022-01-29
 Banana Shire,212,2022-01-29
@@ -2425,9 +2425,9 @@ Blackall Tambo Regional,17,2022-01-29
 Brisbane City,71086,2022-01-29
 Bulloo Shire,3,2022-01-29
 Bundaberg Regional,1808,2022-01-29
-Moreton Bay Regional,20086,2022-01-29
-Etheridge Shire,4,2022-01-29
+McKinlay Shire,4,2022-01-29
 Burke Shire,4,2022-01-29
+Cairns Regional,13241,2022-01-29
 Carpentaria Shire,28,2022-01-29
 Cassowary Coast Regional,1251,2022-01-29
 Central Highlands Regional,606,2022-01-29
@@ -2437,17 +2437,16 @@ Cloncurry Shire,57,2022-01-29
 Cook Shire,236,2022-01-29
 Croydon Shire,2,2022-01-29
 Diamantina Shire,2,2022-01-29
-Doomadgee Aboriginal Shire,28,2022-01-29
-Cairns Regional,13241,2022-01-29
-Mornington Shire,8,2022-01-29
-Somerset Regional,773,2022-01-29
-Murweh Shire,83,2022-01-29
+Douglas Shire,985,2022-01-29
+Moreton Bay Regional,20086,2022-01-29
+Scenic Rim Regional,1070,2022-01-29
+Mount Isa City,151,2022-01-29
 Yarrabah Aboriginal Shire,397,2022-01-29
 Wujal Wujal Aboriginal Shire,6,2022-01-29
 Woorabinda Aboriginal Shire,9,2022-01-29
 Winton Shire,9,2022-01-29
-Mount Isa City,151,2022-01-29
-Western Downs Regional,725,2022-01-29
+Whitsunday Regional,1724,2022-01-29
+Mornington Shire,8,2022-01-29
 Weipa Town,129,2022-01-29
 Townsville City,6166,2022-01-29
 Torres Strait Island Regional,175,2022-01-29
@@ -2456,21 +2455,22 @@ Toowoomba Regional,3953,2022-01-29
 Tablelands Regional,821,2022-01-29
 Sunshine Coast Regional,16273,2022-01-29
 Southern Downs Regional,899,2022-01-29
-Whitsunday Regional,1724,2022-01-29
-Scenic Rim Regional,1070,2022-01-29
+Western Downs Regional,725,2022-01-29
+Somerset Regional,773,2022-01-29
 South Burnett Regional,604,2022-01-29
-Noosa Shire,2929,2022-01-29
 Napranum Aboriginal Shire,20,2022-01-29
+Murweh Shire,83,2022-01-29
+Noosa Shire,2929,2022-01-29
 Northern Peninsula Area Regional,207,2022-01-29
 Not Supplied,128425,2022-01-29
-Palm Island Aboriginal Shire,232,2022-01-29
 North Burnett Regional,168,2022-01-29
+Paroo Shire,25,2022-01-29
 Pormpuraaw Aboriginal Shire,1,2022-01-29
 Quilpie Shire,10,2022-01-29
 Redland City,6818,2022-01-29
 Richmond Shire,3,2022-01-29
 Rockhampton Regional,1870,2022-01-29
-Paroo Shire,25,2022-01-29
+Palm Island Aboriginal Shire,232,2022-01-29
 Blackall Tambo Regional,17,2022-01-30
 Balonne Shire,89,2022-01-30
 Aurukun Shire,43,2022-01-30
@@ -2487,11 +2487,11 @@ Cassowary Coast Regional,1294,2022-01-30
 Charters Towers Regional,56,2022-01-30
 Cherbourg Aboriginal Shire,133,2022-01-30
 Cloncurry Shire,58,2022-01-30
-Cook Shire,238,2022-01-30
 Bulloo Shire,3,2022-01-30
 Central Highlands Regional,631,2022-01-30
 Lockyer Valley Regional,1325,2022-01-30
-Diamantina Shire,2,2022-01-30
+Croydon Shire,2,2022-01-30
+South Burnett Regional,625,2022-01-30
 Somerset Regional,798,2022-01-30
 Scenic Rim Regional,1083,2022-01-30
 Rockhampton Regional,1969,2022-01-30
@@ -2504,8 +2504,8 @@ Paroo Shire,26,2022-01-30
 Palm Island Aboriginal Shire,248,2022-01-30
 Not Supplied,131800,2022-01-30
 Northern Peninsula Area Regional,223,2022-01-30
-South Burnett Regional,625,2022-01-30
 North Burnett Regional,175,2022-01-30
+Noosa Shire,2989,2022-01-30
 Napranum Aboriginal Shire,22,2022-01-30
 Murweh Shire,83,2022-01-30
 Mount Isa City,171,2022-01-30
@@ -2518,10 +2518,11 @@ Mapoon Aboriginal Shire,8,2022-01-30
 Mackay Regional,4309,2022-01-30
 Longreach Regional,28,2022-01-30
 Logan City,21366,2022-01-30
-Noosa Shire,2989,2022-01-30
 Southern Downs Regional,935,2022-01-30
+Cook Shire,238,2022-01-30
 Sunshine Coast Regional,16727,2022-01-30
-Tablelands Regional,840,2022-01-30
+Toowoomba Regional,4008,2022-01-30
+Diamantina Shire,2,2022-01-30
 Doomadgee Aboriginal Shire,32,2022-01-30
 Douglas Shire,992,2022-01-30
 Etheridge Shire,4,2022-01-30
@@ -2547,8 +2548,7 @@ Weipa Town,132,2022-01-30
 Townsville City,6360,2022-01-30
 Torres Strait Island Regional,211,2022-01-30
 Torres Shire,257,2022-01-30
-Toowoomba Regional,4008,2022-01-30
-Croydon Shire,2,2022-01-30
+Tablelands Regional,840,2022-01-30
 Wujal Wujal Aboriginal Shire,8,2022-01-30
 Bundaberg Regional,1946,2022-01-31
 Bulloo Shire,3,2022-01-31
@@ -2568,7 +2568,7 @@ Quilpie Shire,12,2022-01-31
 Pormpuraaw Aboriginal Shire,3,2022-01-31
 Paroo Shire,26,2022-01-31
 Palm Island Aboriginal Shire,275,2022-01-31
-Northern Peninsula Area Regional,228,2022-01-31
+Not Supplied,135189,2022-01-31
 North Burnett Regional,177,2022-01-31
 Noosa Shire,2996,2022-01-31
 Napranum Aboriginal Shire,25,2022-01-31
@@ -2599,7 +2599,7 @@ Burdekin Shire,496,2022-01-31
 Blackall Tambo Regional,17,2022-01-31
 Cassowary Coast Regional,1371,2022-01-31
 Mornington Shire,10,2022-01-31
-Not Supplied,135189,2022-01-31
+Northern Peninsula Area Regional,228,2022-01-31
 McKinlay Shire,4,2022-01-31
 Croydon Shire,2,2022-01-31
 Diamantina Shire,2,2022-01-31
@@ -2610,43 +2610,46 @@ Flinders Shire,21,2022-01-31
 Cook Shire,240,2022-01-31
 Fraser Coast Regional,2275,2022-01-31
 Gold Coast City,46596,2022-01-31
-Goondiwindi Regional,289,2022-01-31
 Moreton Bay Regional,20919,2022-01-31
+Goondiwindi Regional,289,2022-01-31
 Gympie Regional,1123,2022-01-31
 Hinchinbrook Shire,193,2022-01-31
 Hope Vale Aboriginal Shire,9,2022-01-31
 Gladstone Regional,1084,2022-01-31
-Interstate/Other,11478,2022-01-31
 Ipswich City,14520,2022-01-31
+Interstate/Other,11478,2022-01-31
 Lockyer Valley Regional,1348,2022-01-31
 Mareeba Shire,1210,2022-01-31
 Maranoa Regional,304,2022-01-31
 Mapoon Aboriginal Shire,8,2022-01-31
+Mackay Regional,4405,2022-01-31
 Isaac Regional,499,2022-01-31
 Kowanyama Aboriginal Shire,46,2022-01-31
 Livingstone Shire,1025,2022-01-31
 Lockhart River Aboriginal Shire,72,2022-01-31
-Mackay Regional,4405,2022-01-31
-Logan City,21687,2022-01-31
 Longreach Regional,28,2022-01-31
-Etheridge Shire,5,2022-02-01
+Logan City,21687,2022-01-31
 Fraser Coast Regional,2335,2022-02-01
+Flinders Shire,22,2022-02-01
 Goondiwindi Regional,292,2022-02-01
 Gold Coast City,47083,2022-02-01
 Gladstone Regional,1088,2022-02-01
+Douglas Shire,1033,2022-02-01
 Gympie Regional,1147,2022-02-01
-Flinders Shire,22,2022-02-01
-Blackall Tambo Regional,17,2022-02-01
+Etheridge Shire,5,2022-02-01
+Doomadgee Aboriginal Shire,44,2022-02-01
 Balonne Shire,89,2022-02-01
 Hinchinbrook Shire,195,2022-02-01
+Barcoo Shire,2,2022-02-01
+Blackall Tambo Regional,17,2022-02-01
 Brisbane City,73675,2022-02-01
 Bulloo Shire,4,2022-02-01
 Bundaberg Regional,2010,2022-02-01
 Burdekin Shire,506,2022-02-01
 Burke Shire,4,2022-02-01
 Cairns Regional,13764,2022-02-01
+Aurukun Shire,46,2022-02-01
 Carpentaria Shire,30,2022-02-01
-Cassowary Coast Regional,1394,2022-02-01
 Central Highlands Regional,663,2022-02-01
 Charters Towers Regional,66,2022-02-01
 Cherbourg Aboriginal Shire,145,2022-02-01
@@ -2654,12 +2657,9 @@ Cloncurry Shire,59,2022-02-01
 Cook Shire,245,2022-02-01
 Croydon Shire,2,2022-02-01
 Diamantina Shire,2,2022-02-01
-Doomadgee Aboriginal Shire,44,2022-02-01
-Douglas Shire,1033,2022-02-01
-Barcoo Shire,2,2022-02-01
 Barcaldine Regional,17,2022-02-01
 Banana Shire,228,2022-02-01
-Aurukun Shire,46,2022-02-01
+Cassowary Coast Regional,1394,2022-02-01
 Hope Vale Aboriginal Shire,9,2022-02-01
 North Burnett Regional,181,2022-02-01
 Ipswich City,14692,2022-02-01
@@ -2688,8 +2688,8 @@ Quilpie Shire,12,2022-02-01
 Pormpuraaw Aboriginal Shire,3,2022-02-01
 Sunshine Coast Regional,17271,2022-02-01
 Palm Island Aboriginal Shire,298,2022-02-01
-Isaac Regional,510,2022-02-01
 Paroo Shire,27,2022-02-01
+Kowanyama Aboriginal Shire,51,2022-02-01
 Livingstone Shire,1036,2022-02-01
 Lockhart River Aboriginal Shire,72,2022-02-01
 Lockyer Valley Regional,1365,2022-02-01
@@ -2698,7 +2698,7 @@ Longreach Regional,28,2022-02-01
 Mackay Regional,4522,2022-02-01
 Mapoon Aboriginal Shire,8,2022-02-01
 Maranoa Regional,312,2022-02-01
-Kowanyama Aboriginal Shire,51,2022-02-01
+Isaac Regional,510,2022-02-01
 McKinlay Shire,4,2022-02-01
 Mareeba Shire,1253,2022-02-01
 Northern Peninsula Area Regional,237,2022-02-01
@@ -2709,29 +2709,29 @@ Mount Isa City,183,2022-02-01
 Mornington Shire,11,2022-02-01
 Moreton Bay Regional,21328,2022-02-01
 Murweh Shire,85,2022-02-01
+Cook Shire,249,2022-02-02
+Cairns Regional,14033,2022-02-02
 Cloncurry Shire,59,2022-02-02
-Burke Shire,4,2022-02-02
 Cherbourg Aboriginal Shire,145,2022-02-02
 Charters Towers Regional,68,2022-02-02
 Central Highlands Regional,672,2022-02-02
 Cassowary Coast Regional,1411,2022-02-02
 Carpentaria Shire,31,2022-02-02
-Cairns Regional,14033,2022-02-02
-Burdekin Shire,533,2022-02-02
-Barcoo Shire,2,2022-02-02
+Burke Shire,4,2022-02-02
+Blackall Tambo Regional,17,2022-02-02
+Bundaberg Regional,2055,2022-02-02
 Bulloo Shire,4,2022-02-02
 Brisbane City,74697,2022-02-02
-Blackall Tambo Regional,17,2022-02-02
+Barcoo Shire,2,2022-02-02
 Barcaldine Regional,17,2022-02-02
 Banana Shire,234,2022-02-02
 Balonne Shire,90,2022-02-02
 Aurukun Shire,53,2022-02-02
-Cook Shire,249,2022-02-02
-Bundaberg Regional,2055,2022-02-02
 Croydon Shire,2,2022-02-02
-Logan City,22309,2022-02-02
-Doomadgee Aboriginal Shire,52,2022-02-02
-Northern Peninsula Area Regional,263,2022-02-02
+Burdekin Shire,533,2022-02-02
+Diamantina Shire,2,2022-02-02
+Longreach Regional,28,2022-02-02
+Douglas Shire,1044,2022-02-02
 Not Supplied,143300,2022-02-02
 Palm Island Aboriginal Shire,319,2022-02-02
 Paroo Shire,27,2022-02-02
@@ -2744,10 +2744,10 @@ Scenic Rim Regional,1155,2022-02-02
 Somerset Regional,850,2022-02-02
 South Burnett Regional,661,2022-02-02
 Southern Downs Regional,1019,2022-02-02
+Northern Peninsula Area Regional,263,2022-02-02
 Sunshine Coast Regional,17763,2022-02-02
-Tablelands Regional,882,2022-02-02
 Toowoomba Regional,4208,2022-02-02
-Torres Strait Island Regional,248,2022-02-02
+Torres Shire,305,2022-02-02
 Townsville City,7205,2022-02-02
 Weipa Town,151,2022-02-02
 Western Downs Regional,770,2022-02-02
@@ -2757,16 +2757,15 @@ Woorabinda Aboriginal Shire,10,2022-02-02
 Wujal Wujal Aboriginal Shire,9,2022-02-02
 Yarrabah Aboriginal Shire,465,2022-02-02
 Total cases,423260,2022-02-02
-Diamantina Shire,2,2022-02-02
+Doomadgee Aboriginal Shire,52,2022-02-02
+Tablelands Regional,882,2022-02-02
 North Burnett Regional,184,2022-02-02
-Noosa Shire,3071,2022-02-02
-Torres Shire,305,2022-02-02
-Murweh Shire,85,2022-02-02
-Douglas Shire,1044,2022-02-02
+Torres Strait Island Regional,248,2022-02-02
+Napranum Aboriginal Shire,34,2022-02-02
 Etheridge Shire,5,2022-02-02
 Flinders Shire,27,2022-02-02
-Napranum Aboriginal Shire,34,2022-02-02
-Gladstone Regional,1111,2022-02-02
+Fraser Coast Regional,2386,2022-02-02
+Noosa Shire,3071,2022-02-02
 Gold Coast City,47817,2022-02-02
 Goondiwindi Regional,306,2022-02-02
 Gympie Regional,1189,2022-02-02
@@ -2775,29 +2774,30 @@ Hope Vale Aboriginal Shire,9,2022-02-02
 Interstate/Other,11583,2022-02-02
 Ipswich City,14995,2022-02-02
 Isaac Regional,518,2022-02-02
-Fraser Coast Regional,2386,2022-02-02
-Livingstone Shire,1040,2022-02-02
 Kowanyama Aboriginal Shire,59,2022-02-02
+Gladstone Regional,1111,2022-02-02
+Lockhart River Aboriginal Shire,72,2022-02-02
+Livingstone Shire,1040,2022-02-02
+Murweh Shire,85,2022-02-02
 Mount Isa City,193,2022-02-02
 Mornington Shire,11,2022-02-02
 Moreton Bay Regional,21827,2022-02-02
 McKinlay Shire,4,2022-02-02
 Mareeba Shire,1299,2022-02-02
 Maranoa Regional,329,2022-02-02
-Mapoon Aboriginal Shire,8,2022-02-02
-Lockhart River Aboriginal Shire,72,2022-02-02
-Mackay Regional,4698,2022-02-02
-Longreach Regional,28,2022-02-02
 Lockyer Valley Regional,1425,2022-02-02
+Logan City,22309,2022-02-02
+Mapoon Aboriginal Shire,8,2022-02-02
+Mackay Regional,4698,2022-02-02
 Lockhart River Aboriginal Shire,73,2022-02-03
 Mount Isa City,249,2022-02-03
 Mornington Shire,12,2022-02-03
 Moreton Bay Regional,22229,2022-02-03
 McKinlay Shire,4,2022-02-03
-Ipswich City,15242,2022-02-03
 Mareeba Shire,1332,2022-02-03
 Maranoa Regional,339,2022-02-03
 Isaac Regional,532,2022-02-03
+Livingstone Shire,1065,2022-02-03
 Kowanyama Aboriginal Shire,67,2022-02-03
 Murweh Shire,85,2022-02-03
 Mapoon Aboriginal Shire,8,2022-02-03
@@ -2805,7 +2805,7 @@ Mackay Regional,4784,2022-02-03
 Longreach Regional,28,2022-02-03
 Logan City,22577,2022-02-03
 Lockyer Valley Regional,1461,2022-02-03
-Livingstone Shire,1065,2022-02-03
+Ipswich City,15242,2022-02-03
 Napranum Aboriginal Shire,38,2022-02-03
 Torres Shire,319,2022-02-03
 North Burnett Regional,190,2022-02-03
@@ -2870,16 +2870,11 @@ Carpentaria Shire,36,2022-02-03
 Hinchinbrook Shire,208,2022-02-03
 Palm Island Aboriginal Shire,326,2022-02-03
 Isaac Regional,533,2022-02-04
-Aurukun Shire,62,2022-02-04
-Wujal Wujal Aboriginal Shire,11,2022-02-04
-Woorabinda Aboriginal Shire,10,2022-02-04
-Winton Shire,10,2022-02-04
-Whitsunday Regional,1841,2022-02-04
-Western Downs Regional,795,2022-02-04
+Bulloo Shire,4,2022-02-04
 Weipa Town,161,2022-02-04
 Townsville City,7855,2022-02-04
-Yarrabah Aboriginal Shire,489,2022-02-04
 Torres Strait Island Regional,281,2022-02-04
+Torres Shire,337,2022-02-04
 Toowoomba Regional,4361,2022-02-04
 Tablelands Regional,915,2022-02-04
 Sunshine Coast Regional,18278,2022-02-04
@@ -2887,19 +2882,17 @@ Southern Downs Regional,1069,2022-02-04
 South Burnett Regional,706,2022-02-04
 Somerset Regional,881,2022-02-04
 Scenic Rim Regional,1192,2022-02-04
-Torres Shire,337,2022-02-04
 Rockhampton Regional,2236,2022-02-04
-Total cases,438667,2022-02-04
-Cherbourg Aboriginal Shire,167,2022-02-04
-Bulloo Shire,4,2022-02-04
-Brisbane City,76288,2022-02-04
+Richmond Shire,3,2022-02-04
+Redland City,7681,2022-02-04
+Quilpie Shire,13,2022-02-04
+Western Downs Regional,795,2022-02-04
+Pormpuraaw Aboriginal Shire,3,2022-02-04
+Whitsunday Regional,1841,2022-02-04
+Woorabinda Aboriginal Shire,10,2022-02-04
 Blackall Tambo Regional,17,2022-02-04
-Barcoo Shire,2,2022-02-04
-Barcaldine Regional,17,2022-02-04
-Banana Shire,256,2022-02-04
-Balonne Shire,95,2022-02-04
-Cloncurry Shire,65,2022-02-04
-Kowanyama Aboriginal Shire,72,2022-02-04
+Brisbane City,76288,2022-02-04
+Bundaberg Regional,2190,2022-02-04
 Burdekin Shire,575,2022-02-04
 Burke Shire,4,2022-02-04
 Cairns Regional,14675,2022-02-04
@@ -2907,12 +2900,15 @@ Carpentaria Shire,36,2022-02-04
 Cassowary Coast Regional,1482,2022-02-04
 Central Highlands Regional,736,2022-02-04
 Charters Towers Regional,77,2022-02-04
-Bundaberg Regional,2190,2022-02-04
-Redland City,7681,2022-02-04
-Richmond Shire,3,2022-02-04
-Pormpuraaw Aboriginal Shire,3,2022-02-04
-Livingstone Shire,1121,2022-02-04
-Cook Shire,261,2022-02-04
+Cherbourg Aboriginal Shire,167,2022-02-04
+Cloncurry Shire,65,2022-02-04
+Total cases,438667,2022-02-04
+Yarrabah Aboriginal Shire,489,2022-02-04
+Wujal Wujal Aboriginal Shire,11,2022-02-04
+Winton Shire,10,2022-02-04
+Barcoo Shire,2,2022-02-04
+Paroo Shire,29,2022-02-04
+Not Supplied,150584,2022-02-04
 Croydon Shire,2,2022-02-04
 Diamantina Shire,2,2022-02-04
 Doomadgee Aboriginal Shire,55,2022-02-04
@@ -2928,19 +2924,16 @@ Hinchinbrook Shire,217,2022-02-04
 Hope Vale Aboriginal Shire,10,2022-02-04
 Interstate/Other,11676,2022-02-04
 Ipswich City,15397,2022-02-04
-Quilpie Shire,13,2022-02-04
-Lockyer Valley Regional,1493,2022-02-04
-Lockhart River Aboriginal Shire,73,2022-02-04
-Longreach Regional,28,2022-02-04
-Paroo Shire,29,2022-02-04
+Cook Shire,261,2022-02-04
 Palm Island Aboriginal Shire,337,2022-02-04
-Not Supplied,150584,2022-02-04
+Livingstone Shire,1121,2022-02-04
+Lockyer Valley Regional,1493,2022-02-04
 Northern Peninsula Area Regional,313,2022-02-04
 North Burnett Regional,191,2022-02-04
 Noosa Shire,3122,2022-02-04
-Logan City,22869,2022-02-04
-Murweh Shire,85,2022-02-04
 Napranum Aboriginal Shire,39,2022-02-04
+Murweh Shire,85,2022-02-04
+Mount Isa City,279,2022-02-04
 Mornington Shire,12,2022-02-04
 Moreton Bay Regional,22380,2022-02-04
 McKinlay Shire,4,2022-02-04
@@ -2948,84 +2941,92 @@ Mareeba Shire,1354,2022-02-04
 Maranoa Regional,349,2022-02-04
 Mapoon Aboriginal Shire,8,2022-02-04
 Mackay Regional,4875,2022-02-04
-Mount Isa City,279,2022-02-04
-Banana Shire,256,2022-02-05
-Aurukun Shire,62,2022-02-05
-Balonne Shire,95,2022-02-05
-Barcaldine Regional,17,2022-02-05
-Rockhampton Regional,2236,2022-02-05
-Blackall Tambo Regional,17,2022-02-05
-Mackay Regional,4875,2022-02-05
-Longreach Regional,28,2022-02-05
-Logan City,22869,2022-02-05
-Lockyer Valley Regional,1493,2022-02-05
-Lockhart River Aboriginal Shire,73,2022-02-05
-Livingstone Shire,1121,2022-02-05
-Kowanyama Aboriginal Shire,72,2022-02-05
-Isaac Regional,533,2022-02-05
-Ipswich City,15397,2022-02-05
-Interstate/Other,11676,2022-02-05
-Hope Vale Aboriginal Shire,10,2022-02-05
-Hinchinbrook Shire,217,2022-02-05
-Gympie Regional,1259,2022-02-05
-Goondiwindi Regional,325,2022-02-05
-Gold Coast City,48668,2022-02-05
-Mapoon Aboriginal Shire,8,2022-02-05
-Gladstone Regional,1198,2022-02-05
-Maranoa Regional,349,2022-02-05
-McKinlay Shire,4,2022-02-05
+Longreach Regional,28,2022-02-04
+Logan City,22869,2022-02-04
+Lockhart River Aboriginal Shire,73,2022-02-04
+Barcaldine Regional,17,2022-02-04
+Aurukun Shire,62,2022-02-04
+Balonne Shire,95,2022-02-04
+Banana Shire,256,2022-02-04
+Kowanyama Aboriginal Shire,72,2022-02-04
+Logan City,23142,2022-02-05
+Lockyer Valley Regional,1510,2022-02-05
+Lockhart River Aboriginal Shire,74,2022-02-05
+Livingstone Shire,1155,2022-02-05
+Kowanyama Aboriginal Shire,80,2022-02-05
+Isaac Regional,543,2022-02-05
+Ipswich City,15661,2022-02-05
+Interstate/Other,11790,2022-02-05
 Richmond Shire,3,2022-02-05
-Redland City,7681,2022-02-05
-Quilpie Shire,13,2022-02-05
-Pormpuraaw Aboriginal Shire,3,2022-02-05
-Paroo Shire,29,2022-02-05
-Palm Island Aboriginal Shire,337,2022-02-05
-Not Supplied,150584,2022-02-05
-Northern Peninsula Area Regional,313,2022-02-05
-North Burnett Regional,191,2022-02-05
-Noosa Shire,3122,2022-02-05
-Napranum Aboriginal Shire,39,2022-02-05
-Murweh Shire,85,2022-02-05
-Mount Isa City,279,2022-02-05
-Mornington Shire,12,2022-02-05
-Moreton Bay Regional,22380,2022-02-05
-Mareeba Shire,1354,2022-02-05
-Barcoo Shire,2,2022-02-05
-Fraser Coast Regional,2474,2022-02-05
+Hinchinbrook Shire,219,2022-02-05
+Gympie Regional,1285,2022-02-05
+Goondiwindi Regional,335,2022-02-05
+Gold Coast City,49328,2022-02-05
+Gladstone Regional,1238,2022-02-05
+Fraser Coast Regional,2495,2022-02-05
+Flinders Shire,39,2022-02-05
 Etheridge Shire,5,2022-02-05
-Tablelands Regional,915,2022-02-05
-Toowoomba Regional,4361,2022-02-05
-Torres Shire,337,2022-02-05
-Torres Strait Island Regional,281,2022-02-05
-Townsville City,7855,2022-02-05
-Weipa Town,161,2022-02-05
-Western Downs Regional,795,2022-02-05
-Whitsunday Regional,1841,2022-02-05
-Winton Shire,10,2022-02-05
-Woorabinda Aboriginal Shire,10,2022-02-05
-Wujal Wujal Aboriginal Shire,11,2022-02-05
-Yarrabah Aboriginal Shire,489,2022-02-05
-Total cases,438667,2022-02-05
-Scenic Rim Regional,1192,2022-02-05
-Brisbane City,76288,2022-02-05
-Sunshine Coast Regional,18278,2022-02-05
-Flinders Shire,35,2022-02-05
-Southern Downs Regional,1069,2022-02-05
-Somerset Regional,881,2022-02-05
-Douglas Shire,1057,2022-02-05
-Doomadgee Aboriginal Shire,55,2022-02-05
+Longreach Regional,28,2022-02-05
+Hope Vale Aboriginal Shire,11,2022-02-05
+Mackay Regional,4974,2022-02-05
+Maranoa Regional,364,2022-02-05
+Redland City,7811,2022-02-05
+Quilpie Shire,13,2022-02-05
+Pormpuraaw Aboriginal Shire,4,2022-02-05
+Paroo Shire,31,2022-02-05
+Palm Island Aboriginal Shire,338,2022-02-05
+Not Supplied,154104,2022-02-05
+Northern Peninsula Area Regional,325,2022-02-05
+Douglas Shire,1073,2022-02-05
+North Burnett Regional,192,2022-02-05
+Napranum Aboriginal Shire,40,2022-02-05
+Murweh Shire,85,2022-02-05
+Mount Isa City,287,2022-02-05
+Mornington Shire,12,2022-02-05
+Moreton Bay Regional,23032,2022-02-05
+McKinlay Shire,4,2022-02-05
+Mareeba Shire,1385,2022-02-05
+Noosa Shire,3158,2022-02-05
+Mapoon Aboriginal Shire,8,2022-02-05
 Diamantina Shire,2,2022-02-05
 Croydon Shire,2,2022-02-05
-Cook Shire,261,2022-02-05
+Weipa Town,170,2022-02-05
+Western Downs Regional,805,2022-02-05
+Whitsunday Regional,1860,2022-02-05
+Winton Shire,10,2022-02-05
+Woorabinda Aboriginal Shire,11,2022-02-05
+Wujal Wujal Aboriginal Shire,12,2022-02-05
+Yarrabah Aboriginal Shire,521,2022-02-05
+Aurukun Shire,63,2022-02-05
+Balonne Shire,95,2022-02-05
+Banana Shire,267,2022-02-05
+Barcaldine Regional,17,2022-02-05
+Barcoo Shire,2,2022-02-05
+Blackall Tambo Regional,17,2022-02-05
+Boulia Shire,1,2022-02-05
+Brisbane City,77180,2022-02-05
+Scenic Rim Regional,1211,2022-02-05
+Total cases,447145,2022-02-05
+Townsville City,8194,2022-02-05
+Doomadgee Aboriginal Shire,64,2022-02-05
+Torres Strait Island Regional,289,2022-02-05
+Toowoomba Regional,4428,2022-02-05
+Cook Shire,262,2022-02-05
 Cloncurry Shire,65,2022-02-05
 Cherbourg Aboriginal Shire,167,2022-02-05
-Charters Towers Regional,77,2022-02-05
-Central Highlands Regional,736,2022-02-05
-Cassowary Coast Regional,1482,2022-02-05
-Carpentaria Shire,36,2022-02-05
-Cairns Regional,14675,2022-02-05
+Charters Towers Regional,80,2022-02-05
+Central Highlands Regional,760,2022-02-05
+Cassowary Coast Regional,1528,2022-02-05
+Carpentaria Shire,46,2022-02-05
+Cairns Regional,14955,2022-02-05
 Burke Shire,4,2022-02-05
-Burdekin Shire,575,2022-02-05
-Bundaberg Regional,2190,2022-02-05
-South Burnett Regional,706,2022-02-05
+Burdekin Shire,612,2022-02-05
+Bundaberg Regional,2209,2022-02-05
 Bulloo Shire,4,2022-02-05
+Somerset Regional,904,2022-02-05
+South Burnett Regional,714,2022-02-05
+Southern Downs Regional,1085,2022-02-05
+Sunshine Coast Regional,18781,2022-02-05
+Tablelands Regional,926,2022-02-05
+Torres Shire,350,2022-02-05
+Rockhampton Regional,2291,2022-02-05
