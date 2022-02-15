@@ -14956,3 +14956,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:58963/devtools/browser/3086ca27-8b65-48f1-b094-2ba9368a4cf6
 1644898880898	Marionette	INFO	Listening on port 40685
 1644898880932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644905996486	geckodriver	INFO	Listening on 127.0.0.1:43661
+1644905996915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34833" "-no-remote" "-profile" "/tmp/rust_mozprofilea5Iji5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1644906002073	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea5Iji5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34833/devtools/browser/6363af45-ebcd-4728-9df7-bb3e1b50a367
+1644906005426	Marionette	INFO	Listening on port 44261
+1644906005521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
