@@ -1,12 +1,12 @@
 State,Participant Active,Worker Active,Participant Recovered,Worker Recovered,Participant Deaths,Date
-ACT,19,18,89,132,-,2022-03-01
-NSW,230,745,2364,3988,24,2022-03-01
-NT,58,93,32,93,-,2022-03-01
-QLD,153,343,610,1451,9,2022-03-01
-SA,42,143,547,1186,6,2022-03-01
-TAS,22,108,68,278,-,2022-03-01
-VIC,249,323,1640,1821,26,2022-03-01
+ACT,15,17,94,136,-,2022-03-01
+NSW,238,786,2376,3999,24,2022-03-01
+NT,58,95,34,97,-,2022-03-01
+QLD,188,412,617,1451,9,2022-03-01
+SA,49,167,550,1187,6,2022-03-01
+TAS,25,112,69,278,-,2022-03-01
+VIC,338,445,1658,1842,26,2022-03-01
 WA,-,-,-,6,-,2022-03-01
-Location TBA,-,27,29,35,-,2022-03-01
-Total,778,1801,5382,8990,66,2022-03-01
+Location TBA,-,40,29,35,-,2022-03-01
+Total,916,2075,5430,9031,66,2022-03-01
 "Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission for services regulated by the NDIS Commission. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).",2022-03-01
