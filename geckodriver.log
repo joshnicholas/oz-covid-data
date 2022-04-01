@@ -20820,3 +20820,15 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:60069/devtools/browser/1817e582-d437-4900-99c2-925f9eb65a2b
 1648750926501	Marionette	INFO	Listening on port 38561
 1648750926627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648781864049	geckodriver	INFO	Listening on 127.0.0.1:60885
+1648781865061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/64pcvrn117b35wx61ttyc22dy4rksl/T/rust_mozprofileHUYrPx"
+*** You are running in headless mode.
+console.error: Policies.jsm: 
+  Unable to find certificate - gnm_root_ca.cer
+1648781865391	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/zj/64pcvrn117b35wx61ttyc22dy4rksl/T/rust_mozprofileHUYrPx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1648781866356	Marionette	INFO	Listening on port 60900
+1648781866419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
