@@ -22428,3 +22428,15 @@ DevTools listening on ws://localhost:51155/devtools/browser/dc183a67-818f-4f55-9
 1649845223614	Marionette	INFO	Listening on port 36079
 1649845223673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.health.gov.au/sites/default/files/js/js_D1Ufk9euiuP4agq251BynVrF6pPZuEBHigq4DVxsEsw.js, line 5: ReferenceError: require is not defined
+1649853076108	geckodriver	INFO	Listening on 127.0.0.1:39191
+1649853076525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44441" "-no-remote" "-profile" "/tmp/rust_mozprofilexez807"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1649853079942	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexez807/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44441/devtools/browser/a99ff086-83b6-4348-8c2d-280624645937
+1649853083423	Marionette	INFO	Listening on port 34661
+1649853083486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.health.gov.au/sites/default/files/js/js_D1Ufk9euiuP4agq251BynVrF6pPZuEBHigq4DVxsEsw.js, line 5: ReferenceError: require is not defined
