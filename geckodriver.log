@@ -27992,3 +27992,23 @@ DevTools listening on ws://localhost:43131/devtools/browser/0e7242ce-d82f-45df-a
 1653236765730	Marionette	INFO	Listening on port 43393
 Read port: 43393
 1653236765817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653243726806	geckodriver	INFO	Listening on 127.0.0.1:39641
+1653243726989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBP0qkd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1653243736334	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBP0qkd/search.json.mozlz4", (void 0)))
+
+!!! could not start server on port 39641: [Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.init]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://remote/content/server/HTTPD.jsm :: _start :: line 579"  data: no]
+
+1653243742585	RemoteAgent	ERROR	unable to stop listener: [Exception... "Unexpected error"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/server/HTTPD.jsm :: stop :: line 633"  data: no] Stack trace: stop()@HTTPD.jsm:633
+close()@RemoteAgent.jsm:225
+1653243742585	RemoteAgent	ERROR	Unable to start remote agent: : [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/server/HTTPD.jsm :: _start :: line 624"  data: no] Stack trace: _start()@HTTPD.jsm:624
+listen()@RemoteAgent.jsm:202
+observe()@RemoteAgent.jsm:345
+_scheduleStartupIdleTasks/task/<()@resource:///modules/BrowserGlue.jsm:2768
+1653243742735	Marionette	INFO	Listening on port 37663
+Read port: 37663
+1653243742899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
