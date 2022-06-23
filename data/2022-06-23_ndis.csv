@@ -1,13 +1,12 @@
-0,1,2,3,4,5,Date
-State,Participant Active,Worker Active,Participant Recovered,Worker Recovered,Participant Deaths,2022-06-23
-ACT,34,9,366,317,-,2022-06-23
-NSW,613,724,6088,8872,26,2022-06-23
-NT,7,24,264,472,-,2022-06-23
-QLD,297,502,2390,4328,9,2022-06-23
-SA,262,290,1865,2733,8,2022-06-23
-TAS,108,150,444,1136,-,2022-06-23
-VIC,832,522,4430,4187,30,2022-06-23
-WA,526,950,1495,2451,-,2022-06-23
--,12,22,82,136,-,2022-06-23
-Total,2691,3193,17424,24632,78,2022-06-23
+State,Participant Active,Worker Active,Participant Recovered,Worker Recovered,Participant Deaths,Date
+ACT,50,25,402,340,-,2022-06-23
+NSW,751,772,6958,10003,27,2022-06-23
+NT,9,37,275,491,-,2022-06-23
+QLD,390,594,2656,4891,9,2022-06-23
+SA,291,322,2271,3126,8,2022-06-23
+TAS,53,123,578,1305,-,2022-06-23
+VIC,1020,565,5310,4874,30,2022-06-23
+WA,626,1082,1908,3319,-,2022-06-23
+-,15,22,87,138,-,2022-06-23
+Total,3205,3542,20445,28487,79,2022-06-23
 "Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission, as soon as is practicable, of certain changes and events that significantly impact their provision of services regulated by the NDIS Commission, including COVID-19 impacts such as infection of participants, under section 13 and 13A of the NDIS (Provider Registration and Practice Standards) Rules 2018. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission, as soon as is practicable, of certain changes and events that significantly impact their provision of services regulated by the NDIS Commission, including COVID-19 impacts such as infection of participants, under section 13 and 13A of the NDIS (Provider Registration and Practice Standards) Rules 2018. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission, as soon as is practicable, of certain changes and events that significantly impact their provision of services regulated by the NDIS Commission, including COVID-19 impacts such as infection of participants, under section 13 and 13A of the NDIS (Provider Registration and Practice Standards) Rules 2018. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission, as soon as is practicable, of certain changes and events that significantly impact their provision of services regulated by the NDIS Commission, including COVID-19 impacts such as infection of participants, under section 13 and 13A of the NDIS (Provider Registration and Practice Standards) Rules 2018. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission, as soon as is practicable, of certain changes and events that significantly impact their provision of services regulated by the NDIS Commission, including COVID-19 impacts such as infection of participants, under section 13 and 13A of the NDIS (Provider Registration and Practice Standards) Rules 2018. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).","Note: this table only shows counts greater than 5. *Only registered NDIS providers are required to notify the NDIS Commission, as soon as is practicable, of certain changes and events that significantly impact their provision of services regulated by the NDIS Commission, including COVID-19 impacts such as infection of participants, under section 13 and 13A of the NDIS (Provider Registration and Practice Standards) Rules 2018. Therefore, these figures do not represent all NDIS participants or all people with disability (who may not be NDIS participants).",2022-06-23
