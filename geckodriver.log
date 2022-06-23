@@ -32737,3 +32737,17 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 DevTools listening on ws://localhost:41989/devtools/browser/ca7fa80e-6ec0-461e-b877-e017cad3612c
 Read port: 41301
 1655972764118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655979620573	geckodriver	INFO	Listening on 127.0.0.1:36223
+1655979620845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez0VP7X"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1655979628233	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45103
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez0VP7X/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655979632790	Marionette	INFO	Listening on port 38097
+DevTools listening on ws://localhost:45103/devtools/browser/c2b70ed4-2c51-492c-a12d-8db291a203f2
+Read port: 38097
+1655979632900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
