@@ -34963,3 +34963,19 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 DevTools listening on ws://localhost:48547/devtools/browser/9eeb70fc-dbc3-46e2-9afd-08792241cb26
 Read port: 40865
 1657124945846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657131784766	geckodriver	INFO	Listening on 127.0.0.1:33695
+1657131785263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "37031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5RFsKc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1657131786193	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:37031
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5RFsKc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1657131788088	Marionette	INFO	Listening on port 34665
+DevTools listening on ws://localhost:37031/devtools/browser/1cd48968-ecad-418f-9e31-76fa6ff02b18
+Read port: 34665
+1657131788193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
