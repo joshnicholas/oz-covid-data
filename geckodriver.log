@@ -38105,3 +38105,18 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 DevTools listening on ws://localhost:49925/devtools/browser/b2e87d50-e09b-4e5e-9d4b-89bae0669ea0
+1658666020781	geckodriver	INFO	Listening on 127.0.0.1:33247
+1658666021165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHavl4L"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1658666027226	Marionette	INFO	Marionette enabled
+1658666027271	Marionette	INFO	Listening on port 46219
+WebDriver BiDi listening on ws://localhost:51907
+Read port: 46219
+1658666028276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHavl4L/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51907/devtools/browser/6d097a28-9682-4ba2-bd3f-55cc329c2888
