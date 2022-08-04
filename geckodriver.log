@@ -40099,3 +40099,20 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 DevTools listening on ws://localhost:36361/devtools/browser/884cfd95-dcc7-435a-9e10-5f4dc517f889
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.health.gov.au"
+1659622598257	geckodriver	INFO	Listening on 127.0.0.1:33947
+1659622598797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev4qKaI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1659622618531	Marionette	INFO	Marionette enabled
+1659622618568	Marionette	INFO	Listening on port 42395
+WebDriver BiDi listening on ws://localhost:44169
+Read port: 42395
+Read port: 42395
+Read port: 42395
+1659622621378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev4qKaI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44169/devtools/browser/1822e312-9afe-443d-9c8b-0449cecf5605
