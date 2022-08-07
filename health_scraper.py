@@ -86,4 +86,5 @@ if len(tables) >= 9:
         i += 1
 
 
+import vax_scraper
 
