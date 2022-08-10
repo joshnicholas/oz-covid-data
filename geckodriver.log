@@ -41660,3 +41660,34 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 DevTools listening on ws://localhost:49327/devtools/browser/6a75d55c-f1a0-493c-a364-e8c96823df19
+1660119775161	geckodriver	INFO	Listening on 127.0.0.1:35277
+1660119775616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileilSo2S"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1660119779192	Marionette	INFO	Marionette enabled
+1660119779202	Marionette	INFO	Listening on port 34537
+WebDriver BiDi listening on ws://localhost:53541
+Read port: 34537
+1660119779832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileilSo2S/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53541/devtools/browser/b42f4452-c4af-4858-8593-811f69b4de91
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.health.gov.au"
+1660119827832	geckodriver	INFO	Listening on 127.0.0.1:33341
+1660119827836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled1hBb8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1660119828125	Marionette	INFO	Marionette enabled
+1660119828130	Marionette	INFO	Listening on port 41089
+Read port: 41089
+WebDriver BiDi listening on ws://localhost:42487
+1660119828256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled1hBb8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42487/devtools/browser/b7a759f6-32f5-407d-82d6-b9202a415b31
