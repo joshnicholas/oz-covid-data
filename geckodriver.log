@@ -42245,3 +42245,34 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 DevTools listening on ws://localhost:38351/devtools/browser/44b96cac-b4e0-493f-8aa8-5d7c16a7d084
+1660256290930	geckodriver	INFO	Listening on 127.0.0.1:41431
+1660256291288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileANflZm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1660256297985	Marionette	INFO	Marionette enabled
+1660256298009	Marionette	INFO	Listening on port 40743
+WebDriver BiDi listening on ws://localhost:33567
+Read port: 40743
+Read port: 40743
+1660256299532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileANflZm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33567/devtools/browser/a93ae1a3-7cd7-4543-b7d1-8f1509649a55
+1660256358400	geckodriver	INFO	Listening on 127.0.0.1:59183
+1660256358404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNkyzLm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1660256358734	Marionette	INFO	Marionette enabled
+1660256358739	Marionette	INFO	Listening on port 43031
+WebDriver BiDi listening on ws://localhost:55007
+Read port: 43031
+1660256358854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNkyzLm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55007/devtools/browser/3709c0af-c3e2-4f5c-8f13-d682f3c61a3a
