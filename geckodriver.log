@@ -51772,3 +51772,32 @@ Read port: 40461
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejtjZNX/search.json.mozlz4", (void 0)))
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 DevTools listening on ws://localhost:38401/devtools/browser/a9d6850d-51bc-40c7-acb3-8bea74285d49
+1662727222505	geckodriver	INFO	Listening on 127.0.0.1:59751
+1662727222911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileurzxiT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1662727230966	Marionette	INFO	Marionette enabled
+1662727230980	Marionette	INFO	Listening on port 33985
+WebDriver BiDi listening on ws://localhost:49447
+Read port: 33985
+Read port: 33985
+1662727232322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileurzxiT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49447/devtools/browser/34cfbd48-d07f-4514-a829-608230d7978c
+1662727291307	geckodriver	INFO	Listening on 127.0.0.1:56773
+1662727291312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWBmuSs"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1662727291664	Marionette	INFO	Marionette enabled
+1662727291668	Marionette	INFO	Listening on port 35823
+WebDriver BiDi listening on ws://localhost:46203
+Read port: 35823
+1662727291791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWBmuSs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46203/devtools/browser/62825074-4fa6-4f2f-be40-1a83eb0a4e85
